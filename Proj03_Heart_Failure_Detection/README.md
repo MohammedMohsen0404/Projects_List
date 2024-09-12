@@ -38,7 +38,7 @@ The dataset used in this project includes the following features:
 
 #### Gradient Boosting
 - **F1 Score:** 0.90
-#### Classification Report
+- Classification Report
 
 |               | precision | recall | f1-score | support |
 |---------------|-----------|--------|----------|---------|
