@@ -1,7 +1,7 @@
 # Airbnb Cleaned Europe Prediction
 
 <p align="center">
-  <img src="IMAGE_URL" height="300"/>
+  <img src="https://github.com/user-attachments/assets/0c997259-91e8-4347-8acf-2474703a462a" height="300"/>
 </p>
 
 ## Summary
@@ -42,7 +42,7 @@ The dataset includes the following features:
 - **Metrics:** R2 Score, Mean Squared Error (MSE), Mean Absolute Error (MAE)
 
 ## Best Model
-### Random Forest Regressor
+#### Random Forest Regressor
 - **R2 Score:** 0.8036
 - **Mean Squared Error (MSE):** 0.0026
 - **Mean Absolute Error (MAE):** 0.0371
