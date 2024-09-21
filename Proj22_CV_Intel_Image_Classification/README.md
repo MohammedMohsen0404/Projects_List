@@ -1,0 +1,2 @@
+# Proj22_CV_Intel_Image_Classification.ipynb
+This folder contains the file Proj22_CV_Intel_Image_Classification.ipynb.

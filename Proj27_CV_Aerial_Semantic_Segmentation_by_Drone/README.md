@@ -1,0 +1,2 @@
+# Proj27_CV_Aerial_Semantic_Segmentation_by_Drone.ipynb
+This folder contains the file Proj27_CV_Aerial_Semantic_Segmentation_by_Drone.ipynb.

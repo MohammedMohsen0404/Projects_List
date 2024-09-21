@@ -1,0 +1,2 @@
+# Proj21_CV_Cats_vs_Dogs_Image_Classification.ipynb
+This folder contains the file Proj21_CV_Cats_vs_Dogs_Image_Classification.ipynb.

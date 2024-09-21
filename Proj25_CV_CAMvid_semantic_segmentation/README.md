@@ -1,0 +1,2 @@
+# Proj25_CV_CAMvid_semantic_segmentation.ipynb
+This folder contains the file Proj25_CV_CAMvid_semantic_segmentation.ipynb.

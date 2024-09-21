@@ -1,0 +1,2 @@
+# Proj34_NLP_Shakespeare_Text_Generation.ipynb
+This folder contains the file Proj34_NLP_Shakespeare_Text_Generation.ipynb.
