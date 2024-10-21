@@ -13,6 +13,11 @@ This project aims to utilize the Cambridge-driving Labeled Video Database (CamVi
 ### Context
 The Cambridge-driving Labeled Video Database (CamVid) provides ground truth labels that associate each pixel with one of 32 semantic classes. This dataset is often used in (real-time) semantic segmentation research.
 
+## Tools and Technologies
+- **Programming Language:** Python
+- **Libraries:** TensorFlow/Keras, NumPy, Matplotlib
+- **Metrics:** Accuracy, Precision, Recall, F1 Score, Confusion Matrix
+
 ## Model Architecture
 
 | Layer (type)        | Output Shape      | Param #   | Connected to            |
@@ -119,5 +124,5 @@ The Cambridge-driving Labeled Video Database (CamVid) provides ground truth labe
 ## samples
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67bc9ee6-2290-4fd6-9d5f-4677ef87ebb1" height="300"/>
+  <img src="https://github.com/user-attachments/assets/67bc9ee6-2290-4fd6-9d5f-4677ef87ebb1"/>
 </p>
