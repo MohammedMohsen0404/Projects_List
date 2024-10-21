@@ -73,7 +73,5 @@ This project aims to develop efficient ship detection models using a carefully c
 
 ## Samples 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/user-attachments/assets/f51a495e-4dc6-4b05-878d-b6391251c54a"/>
 </p>
-
-![Uploading download.png…]()
